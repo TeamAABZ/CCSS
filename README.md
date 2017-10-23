@@ -1,2 +1,2 @@
-# CCSS
+# CMSS
 Crosscurrents Magazine Submission System
